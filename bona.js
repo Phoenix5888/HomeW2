@@ -9,7 +9,7 @@ true + false			//      1		    | number
 '4px' - 3		    	//	NaN             | number
 '4' - 3			    	//       1          | number
 '2' + 3 ** 2;			//     '29'		    | string
-12 / '6'			    //       0          | number
+12 / '6'			    //       2          | number
 23 + 42 + 'number'		//   '65number'		| string
 '10' + (5 === 6);		//    '10false'     | string
 'number' + 15 + 3		//    'number153'	| string
